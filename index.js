@@ -1,3 +1,3 @@
-const PirogramPackage = require('./lib/package');
+'use strict';
 
-module.exports = PirogramPackage;
+module.exports = require('./lib/package');
