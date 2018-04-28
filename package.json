@@ -6,7 +6,6 @@
     "license": "ISC",
     "dependencies": {
         "highlightjs": "^9.10.0",
-        "joi": "^13.2.0",
         "js-yaml": "^3.11.0",
         "lodash": "^4.17.5",
         "marked": "^0.3.19",
