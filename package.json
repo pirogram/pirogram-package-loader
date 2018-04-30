@@ -5,6 +5,7 @@
     "author": "Manas Garg <manasgarg@gmail.com>",
     "license": "ISC",
     "dependencies": {
+        "glob": "^7.1.2",
         "highlightjs": "^9.10.0",
         "js-yaml": "^3.11.0",
         "lodash": "^4.17.5",
