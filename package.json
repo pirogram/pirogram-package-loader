@@ -1,7 +1,7 @@
 {
     "name": "prep-loader",
     "description": "Package loader for Pirogram",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "Manas Garg <manasgarg@gmail.com>",
     "license": "ISC",
     "dependencies": {
