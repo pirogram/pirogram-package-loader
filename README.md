@@ -10,13 +10,12 @@ id: <uuid>
 question: |
   What statements are true about the following dataset:
 
-  ```
   student,height
   Ram,4.2
   Shyam,5.1
   George,5.0
   Rachel,4.8
-  ```
+  
 options:
   - text: It has 2 observations and 4 variables.
   - text: It has 4 observations and 2 variables.
